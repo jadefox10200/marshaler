@@ -18,7 +18,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/tradyfinance/marshaler"
+	"github.com/jadefox10200/marshaler"
 )
 
 func ExampleCommaSeparatedString() {
